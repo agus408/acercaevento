@@ -1,0 +1,9 @@
+body{
+    background-color: rgb(255, 240, 244);
+
+}
+h1{
+    display: flex;
+    justify-content: center;
+
+}
